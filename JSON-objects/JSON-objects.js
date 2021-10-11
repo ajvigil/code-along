@@ -35,7 +35,7 @@ anotherPerson.walk()
 //array of 2 people objects
 let people = [person, anotherPerson,{ name: 'Mary', age: 32, hairColor: 'pink', run: function(){console.log('walking fast')} }]
 console.log(people[0])
-]
+
 console.log(people[0])
 console.log(people)
 
